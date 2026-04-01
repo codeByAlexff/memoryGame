@@ -1,10 +1,4 @@
-  _ __ ___   ___ _ __ ___   ___  _ __ _  __ _| |__  
- | '_ ` _ \ / _ \ '_ ` _ \ / _ \| '__| |/ _` | '_ \ 
- | | | | | |  __/ | | | | | (_) | |  | | (_| | | | |
- |_| |_| |_|\___|_| |_| |_|\___/|_|  |_|\__,_|_| |_|
-                                                    
-                        
-# Game of Memory: Swift App Project Plan
+# MindFlip - The Game of Memory: Swift App Project
 ---
 ## Minimum Viable Product (MVP)
 
